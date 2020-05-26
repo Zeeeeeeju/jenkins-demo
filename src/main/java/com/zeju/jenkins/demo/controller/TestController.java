@@ -16,7 +16,7 @@ public class TestController {
 
     @GetMapping("/xx")
     public String xx(){
-        return "你说什么啊啊啊啊啊啊啊啊？";
+        return "12345647897987？";
     }
 
 
