@@ -16,7 +16,7 @@ public class TestController {
 
     @GetMapping("/xx")
     public String xx(){
-        return "xxxxxx";
+        return "xxxxxxx";
     }
 
 
